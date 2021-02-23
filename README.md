@@ -8,5 +8,5 @@ This is a simple counter app created with React that increments numeric values i
 
 # Deployed Link 
 
-<a href="https://lhafoka13.github.io/React-Counter/">React-Counter-App</a
+<a href="https://lhafoka13.github.io/React-Counter/">React-Counter-App</a>
 
