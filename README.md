@@ -1,14 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-Counter App
 
-## Available Scripts
+![1](https://user-images.githubusercontent.com/68487859/108803387-c99c4b80-7557-11eb-8f73-0b73535734e5.png)
 
-In the project directory, you can run:
+# Functionality 
 
-### `npm start`
+This is a simple counter app created with React that increments numeric values independently, deletes values/button independetly, and allows you to reset the counters to their initial state. The NavBar also holds the number of counters that have current values above zero. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Deployed Link 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<a href="https://lhafoka13.github.io/React-Counter/">React-Counter-App</a
 
